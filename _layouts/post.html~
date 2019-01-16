@@ -14,18 +14,12 @@ layout: default
         • {{ page.author }}
       {%- endif -%}
     </p>
-      <div><p>Categories:<span>[{%- for category in page.categories -%}
-    			{%- capture category_name -%} {{category|url_encode}} {%- endcapture -%}
-    			<a href="/category/{{category_name}}"><code class="highlighter-rouge">
-    			<nobr>{{category_name}}</nobr></code></a>,
-				{%-endfor-%}
-    			]</span><p></div>
     <div><p>Tags:
-    <span>[{%- for tag in page.tags -%}
-    			{%- capture tag_name -%} {{tag|url_encode}} {%- endcapture -%}
+    <span>[{% for tag in page.tags %}
+    			{% capture tag_name %} {{tag}} {% endcapture %}
     			<a href="/tag/{{tag_name}}"><code class="highlighter-rouge">
-    			<nobr>{{tag_name}}</nobr></code></a>,
-				{%-endfor-%}
+    			<nobr>{{tag_name}},</nobr></code></a>
+				{%endfor%}    			
     			]</span><p></div>
   </header>
 
