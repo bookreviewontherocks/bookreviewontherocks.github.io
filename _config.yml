@@ -32,6 +32,8 @@ plugins:
 # A list of the pages to display in the navigation bar
 header_pages:
   - posts.html
+  - categories.html
+  - tags.html
   - index.md
 
 # Exclude from processing.
