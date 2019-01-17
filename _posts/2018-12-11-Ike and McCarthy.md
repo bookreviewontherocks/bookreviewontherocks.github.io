@@ -2,8 +2,8 @@
 layout: post
 title: Ike and McCarthy
 author: Gates
-categories: [Presidential, political]
-tags: [Eisenhower, Cold-War, Politics]
+categories: [History]
+tags: [Eisenhower, Cold-War, Politics, Presidential]
 ---
 
 Book covers how President Eisenhower carefully waged a political attack on Senator Joseph McCarthy. The thesis is a little strained in that it assumes a deliberate and timely strategy where a more likely interpretation was lack of political will on Eisenhower's part.
