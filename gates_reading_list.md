@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gates's Reading List
+title: Gates's List
 author: Gates
 ---
 
