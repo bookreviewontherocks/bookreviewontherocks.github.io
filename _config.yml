@@ -35,6 +35,7 @@ header_pages:
   - categories.html
   - tags.html
   - index.md
+  - gates_reading_list.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -17,4 +17,12 @@ title: Book Review on the Rocks
     </li>
   {% endfor %}
 </ul>
+<ul>
+    <p>Should see reading list here</p>
+    {% for list in site.lists %}
+    <li>
+      <h2><a href="{{ list.url }}">{{ list.title }}</a> by {{list.author}}</h2>
 
+    </li>
+  {% endfor %}
+</ul>
