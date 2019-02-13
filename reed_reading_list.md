@@ -37,11 +37,11 @@ author: Reed
 
 # Economics
 
-[Liar's Poker] (https://www.amazon.com/Liars-Poker-Norton-Paperback-Michael/dp/039333869X/ref=sr_1_1?ie=UTF8&qid=1549937020&sr=8-1&keywords=Liar%27s+Poker) by Michael Lewis
+[Liar's Poker](https://www.amazon.com/Liars-Poker-Norton-Paperback-Michael/dp/039333869X/ref=sr_1_1?ie=UTF8&qid=1549937020&sr=8-1&keywords=Liar%27s+Poker) by Michael Lewis
 
-[Boomerang: Travels in the New Third World] (https://www.amazon.com/Boomerang-Travels-New-Third-World-ebook/dp/B005CRQ2OE/ref=sr_1_1?ie=UTF8&qid=1549937118&sr=8-1&keywords=Boomerang%2C+Michael+Lewis) by Michael Lewis
+[Boomerang: Travels in the New Third World](https://www.amazon.com/Boomerang-Travels-New-Third-World-ebook/dp/B005CRQ2OE/ref=sr_1_1?ie=UTF8&qid=1549937118&sr=8-1&keywords=Boomerang%2C+Michael+Lewis) by Michael Lewis
 
-[Freakonomics: A Rogue Economist Explores the Hidden Side of Everything] (https://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/0060731338/ref=sr_1_1?ie=UTF8&qid=1549937622&sr=8-1&keywords=Freakonomics) by Stephen Levitt and Stephen Dubner
+[Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/0060731338/ref=sr_1_1?ie=UTF8&qid=1549937622&sr=8-1&keywords=Freakonomics) by Stephen Levitt and Stephen Dubner
 
 # Christian Reading
 
