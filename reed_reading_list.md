@@ -15,7 +15,7 @@ author: Reed
 
 [Days of Definance: Sumter, Sucession, and the Coming of the Civil War](https://www.amazon.com/Days-Defiance-Sumter-Secession-Coming/dp/0679768823/ref=sr_1_1?ie=UTF8&qid=1549934381&sr=8-1&keywords=days+of+defiance) by Maury Klein
 
-#Engineering
+# Engineering
 
 [The Path Between Two Seas](https://www.amazon.com/Path-Between-Seas-Creation-1870-1914/dp/0671244094/ref=sr_1_1?ie=UTF8&qid=1549934603&sr=8-1&keywords=The+path+between+two+seas) by David McCullough
 
@@ -25,15 +25,15 @@ author: Reed
 
 # American History
 
-[What Kind of Nation:Thomas Jefferson, John Marshall, and the Epic Struggle to Create a United States] (https://www.amazon.com/What-Kind-Nation-Jefferson-Marshall/dp/0684848716/ref=sr_1_1?ie=UTF8&qid=1549937854&sr=8-1&keywords=What+Kind+of+Nation) by James F. Simon
+[What Kind of Nation:Thomas Jefferson, John Marshall, and the Epic Struggle to Create a United States](https://www.amazon.com/What-Kind-Nation-Jefferson-Marshall/dp/0684848716/ref=sr_1_1?ie=UTF8&qid=1549937854&sr=8-1&keywords=What+Kind+of+Nation) by James F. Simon
 
-[Alexander Hamilton] (https://www.amazon.com/Alexander-Hamilton-Ron-Chernow/dp/0143034758/ref=sr_1_5?ie=UTF8&qid=1549938014&sr=8-5&keywords=Hamilton) by Ron Chernow
+[Alexander Hamilton](https://www.amazon.com/Alexander-Hamilton-Ron-Chernow/dp/0143034758/ref=sr_1_5?ie=UTF8&qid=1549938014&sr=8-5&keywords=Hamilton) by Ron Chernow
 
-[The Rise of Theodore Roosevelt] (https://www.amazon.com/Theodore-Roosevelt-Modern-Library-Paperback/dp/0375756787/ref=sr_1_1?ie=UTF8&qid=1549938097&sr=8-1&keywords=the+rise+of+theodore+roosevelt) by Edmund Moris
+[The Rise of Theodore Roosevelt](https://www.amazon.com/Theodore-Roosevelt-Modern-Library-Paperback/dp/0375756787/ref=sr_1_1?ie=UTF8&qid=1549938097&sr=8-1&keywords=the+rise+of+theodore+roosevelt) by Edmund Moris
 
-[John Adams] (https://www.amazon.com/John-Adams-David-McCullough/dp/0743223136/ref=sr_1_1?ie=UTF8&qid=1549938677&sr=8-1&keywords=john+adams+david+mccullough) by David McCullough
+[John Adams](https://www.amazon.com/John-Adams-David-McCullough/dp/0743223136/ref=sr_1_1?ie=UTF8&qid=1549938677&sr=8-1&keywords=john+adams+david+mccullough) by David McCullough
 
-[The Great Tax Wars: Lincoln -- Teddy Roosevelt -- Wilson, How the Income Tax Transformed America] (https://www.amazon.com/Theodore-Roosevelt-Modern-Library-Paperback/dp/0375756787/ref=sr_1_1?ie=UTF8&qid=1549938097&sr=8-1&keywords=the+rise+of+theodore+roosevelt) by Steven R. Weisman
+[The Great Tax Wars: Lincoln -- Teddy Roosevelt -- Wilson, How the Income Tax Transformed America](https://www.amazon.com/Theodore-Roosevelt-Modern-Library-Paperback/dp/0375756787/ref=sr_1_1?ie=UTF8&qid=1549938097&sr=8-1&keywords=the+rise+of+theodore+roosevelt) by Steven R. Weisman
 
 # Economics
 
