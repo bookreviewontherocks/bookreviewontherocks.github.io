@@ -6,10 +6,11 @@ categories: [History]
 tags: [Presidential-History, Eisenhower, Cold-War, Politics]
 ---
 
-The Age of Eisenhower: America and the World in the 1950s
-By William Hitchcock
 
 This work focuses on Eisenhower's eight years as president. It is sweeping in its scope and diligent in its treatment of the various aspects of the period. It covers military, economic, civil rights, and judicial facets of life during Eisenhower's Presidency. Probably the best single volume discussion of Eisenhower's presidency. 
+
+The Age of Eisenhower: America and the World in the 1950s
+By William Hitchcock
 
 
 # Review
