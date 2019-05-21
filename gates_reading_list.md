@@ -6,8 +6,9 @@ author: Gates
 
 
 # Reading Now
-[Queen of Scots: The True Life of Mary Tudor](https://www.amazon.com/Queen-Scots-True-Life-Stuart-ebook/dp/B00L0M73TI/ref=sr_1_1?ie=UTF8&qid=1549289571&sr=8-1&keywords=queen+of+scots+the+true+life+of+mary+stuart) by John Guy
-[Sacred War: Nationalism and Revolution in a Divided Vietnam](https://www.abebooks.com/servlet/BookDetailsPL?bi=30178546182&searchurl=kn%3Dduiker%26tn%3Dsacred%2Bwar%26sortby%3D17&cm_sp=snippet-_-srp1-_-title1) by William Duiker
+[Operation Overflight: A Memoir of the U-2 Incident](https://www.listennotes.com/podcasts/youre-wrong-about-michael-hobbes-sarah-BIpZCjq7QW4/) by Francis Gary Powers
+
+
 
 
 # Cold War
@@ -21,10 +22,19 @@ author: Gates
 #Vietnam
 [Vietnam:An American Ordeal](https://www.amazon.com/gp/product/020563740X/ref=ppx_yo_dt_b_asin_title_o02__o00_s00?ie=UTF8&psc=1) by George Moss
 [The Army and Vietnam](https://www.amazon.com/gp/product/0801836573/ref=ppx_yo_dt_b_asin_title_o03__o00_s00?ie=UTF8&psc=1) by Andrew Krepenvich
+[Sacred War: Nationalism and Revolution in a Divided Vietnam](https://www.abebooks.com/servlet/BookDetailsPL?bi=30178546182&searchurl=kn%3Dduiker%26tn%3Dsacred%2Bwar%26sortby%3D17&cm_sp=snippet-_-srp1-_-title1) by William Duiker
+
+
+#[State of Repression: Iraq Under Saddam Hussein](https://www.amazon.com/State-Repression-under-Saddam-Hussein/dp/069118027X/ref=sr_1_fkmrnull_1?crid=2HYKVVMK0YZ9B&keywords=state+of+repression+iraq+under+saddam+hussein&qid=1558472445&s=gateway&sprefix=state+of+repression%2Caps%2C162&sr=8-1-fkmrnull) by Lisa Blaydes
 
 # General Military Hisotry
 [A New Conception of War: John Boyd, The U.S. Marines, and Maneuver Warfare](https://www.usmcu.edu/Portals/218/ANewConceptionOfWar.pdf?ver=2018-11-08-094859-167) by Ian T. Brown (This is a PDF of the book it is free)
 [Warfare and Society in Europe 1792-1914](https://www.abebooks.com/servlet/BookDetailsPL?bi=30219756032&searchurl=kn%3Dwarfare%2Band%2Bsociety%2Bin%2Beurope%2B1792-1914%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2) by Geoffrey Wawro
 
+#Medieval History
+[Queen of Scots: The True Life of Mary Tudor](https://www.amazon.com/Queen-Scots-True-Life-Stuart-ebook/dp/B00L0M73TI/ref=sr_1_1?ie=UTF8&qid=1549289571&sr=8-1&keywords=queen+of+scots+the+true+life+of+mary+stuart) by John Guy
+
+
 # Pod Casts
 [Revisionsist History](http://revisionisthistory.com/) by Malcom Gladwell
+[You Were Wrong About](https://www.listennotes.com/podcasts/youre-wrong-about-michael-hobbes-sarah-BIpZCjq7QW4/)
